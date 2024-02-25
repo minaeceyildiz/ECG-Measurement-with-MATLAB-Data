@@ -1,0 +1,5 @@
+BRADYCARDIA
+
+total duration: 5 second 
+sampling frequency: 8000 Hertz
+number of beats: 36 beats

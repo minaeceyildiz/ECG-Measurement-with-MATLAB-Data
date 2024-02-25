@@ -1,0 +1,5 @@
+NORMAL
+
+total duration: 5 second
+sampling frequency: 8000 Hertz
+number of beats: 72 beats

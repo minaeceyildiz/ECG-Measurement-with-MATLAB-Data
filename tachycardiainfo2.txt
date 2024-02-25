@@ -1,0 +1,5 @@
+TACHYCARDIA
+
+total duration: 5 second
+sampling frequency:8000 Hz
+number of beats: 180 beats
